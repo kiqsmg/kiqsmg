@@ -10,7 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiqsmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiqsmg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
+  ![Snake animation](https://github.com/kiqsmg/kiqsmg/blob/output/github-contribution-grid-snake.svg)
   
 ### Main skills:
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -22,12 +23,13 @@
 
 
 ### Studying:
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)                                                                                                                               
+[![TypeScript](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)      
+
+
 ### Contact:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kiqsmg/)
 [![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@caiquesalesmirandagomes1281)
 
- 
-![Snake animation](https://github.com/kiqsmg/kiqsmg/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007F4D&height=120&section=footer"/>
