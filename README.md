@@ -13,12 +13,12 @@
 </div>
   
 ### Main skills:
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React.js](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/en)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ### Studying:
